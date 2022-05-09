@@ -1,7 +1,6 @@
 # SIH-2022-Project
 
 Team Members - 06
-team Leader - Utkarsh Sharma
 
 We are building a site where any Indian artist can put up 
 his/her work and people from all over India can purchase it,
