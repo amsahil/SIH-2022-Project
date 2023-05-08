@@ -26,17 +26,14 @@ Objective :-
 
 --------------------------------------
 
-Organization
-:- Ministry of Culture
+| Project Overview  | Description |
+| ----------------- | ----------- |
+| Organization | Ministry of Culture |
+| Category | Software |
+| Domain Bucket | Heritage & Culture |
+| Team Members |  six |
 
-Category
-:- Software
+--------------------------------------
 
-Domain
-:- Bucket	Heritage & Culture
-
-Team Members
-:- six
-
-Conclusive Approach 
+**Conclusive Approach** 
 :- We are building a site where any Indian artist can put up his/her work and people from all over India can purchase it.
